@@ -22,14 +22,20 @@ Import-AzurePublishSettingsFile
 - 参考
 https://www.windowsazure.com/en-us/develop/nodejs/how-to-guides/powershell-cmdlets/
 
-##sqlcmd版本至少2008
+##sqlcmd
+
+- 版本至少2008及以上
 
 - E:\Program Files\Microsoft SQL Server\100\Tools\Binn\SQLCMD.exe -U codesharp@g84etzrrzm.database.windows.net -P COOPERcooper5323210 -S g84etzrrzm.database.windows.net -d cooper
 
 - 范例
+
 use cooper
+
 go
+
 select * from cooper_account
+
 go
 
 - 自动化sql可用此工具
