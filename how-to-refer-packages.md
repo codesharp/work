@@ -2,6 +2,8 @@
 
 ====
 
+first, add nuget feeds url http://nuget.incooper.net/nuget
+
 ## Codesharp
 
 - Codesharp.Core
@@ -12,30 +14,33 @@
 
 ## Thirdpart
 
-- Castle
-
-always refer package Codesharp.Core.Castles
-
-- NHibernate
-
-always refer package Codesharp.Core.Castles
-
-- FluentNHibernate
-
-always refer package Codesharp.Core.Castles
-
-- Newtonsoft.Json
-
 - ASP.NET MVC3
 
-CodeSharp.Package.AspNetMvc3
+*CodeSharp.Package.AspNetMvc3*
 
 - ASP.NET WebPages for MVC3
 
-CodeSharp.Package.AspNetWebPage
+*CodeSharp.Package.AspNetWebPage*
+
+- Castle
+
+*always refer package Codesharp.Core.Castles*
+
+- NHibernate
+
+*always refer package Codesharp.Core.Castles*
+
+- FluentNHibernate
+
+*always refer package Codesharp.Core.Castles*
+
+- Newtonsoft.Json
 
 
 ## Self Compiled
+
+All thridpart castle.facilities merged into CodeSharp.Core.Castles
+
 
 
 

@@ -2,6 +2,8 @@
 
 ====
 
+PS: Code# 的license选择依据，APL（框架类项目和部分开源系统）、GPL（开源系统）、LGPL（组件类项目）
+
 来源：http://www.awflasher.com/blog/archives/939
 
 ##BSD开源协议（original BSD license、FreeBSD license、Original BSD license）
