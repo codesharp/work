@@ -22,15 +22,17 @@ first, add nuget feeds url http://incooper.cloudapp.net/nuget/ or http://codesha
 
 *CodeSharp.Package.AspNetWebPage*
 
-- Castle
+- Castle 3.x
 
 *always refer package Codesharp.Core.Castles*
 
-- NHibernate
+- NHibernate 3.x
 
 *always refer package Codesharp.Core.Castles*
 
-- FluentNHibernate
+refer to http://www.nhforge.org/doc/nh/en/index.html
+
+- FluentNHibernate 1.2.x
 
 *always refer package Codesharp.Core.Castles*
 
