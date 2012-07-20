@@ -22,6 +22,10 @@ first, add nuget feeds url http://incooper.cloudapp.net/nuget/ or http://codesha
 
 *CodeSharp.Package.AspNetWebPage*
 
+- MSTest For .Net4
+
+*CodeSharp.Package.MSTest*
+
 - Castle 3.x
 
 *always refer package Codesharp.Core.Castles*
