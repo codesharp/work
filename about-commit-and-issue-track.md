@@ -2,6 +2,14 @@
 
 ====
 
+## Install
+
+http://git-scm.com/
+
+or
+
+http://github.com
+
 ## Commit
 
 ```shell
@@ -9,6 +17,19 @@ git status
 git add -A
 git commit -a -m "commit detail"
 git push
+```
+
+## Pull-Request
+
+http://www.worldhello.net/gotgithub/04-work-with-others/010-fork-and-pull.html
+
+```shell
+git add remote cooper git@github.com:codesharp/cooper.git
+git remote -v
+git fetch cooper
+git branch -a
+git merge cooper/master
+git log --graph -2
 ```
 
 ## BugTrace
