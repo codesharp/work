@@ -32,6 +32,20 @@ git merge cooper/master
 git log --graph -2
 ```
 
+## Pull-Request With Local Repos
+
+http://stackoverflow.com/questions/5775580/git-pulling-changes-between-two-local-repositories
+
+that's cool!
+
+```shell
+git add remote cooper-local ../../codesharp/cooper
+git remote -v
+git fetch cooper-local
+git branch -a
+git merge cooper-local/master
+```
+
 ## BugTrace
 
 use [github issues](https://github.com/codesharp/infrastructure/issues) to bugtrace.
