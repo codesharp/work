@@ -1,5 +1,7 @@
 # Git Commit and BugTrace
 
+[https://gist.github.com/3203965](https://gist.github.com/3203965)
+
 ====
 
 ## Install

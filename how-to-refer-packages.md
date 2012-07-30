@@ -2,7 +2,7 @@
 
 ====
 
-first, add nuget feeds url http://incooper.cloudapp.net/nuget/ or http://codesharp.cloudapp.net/nuget/
+first, add nuget feeds url http://cs-nuget.apphb.com/nuget or http://nuget.icodesharp.com
 
 ## Codesharp
 
